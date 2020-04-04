@@ -22,6 +22,11 @@
     <title>test1</title>
     <url>/2020/04/04/test/</url>
     <content><![CDATA[<p>Test! </p>
-]]></content>
+<p><code>include</code></p>
+<p>$$a+b$$</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="string">``</span><span class="string">`javascript</span></span><br><span class="line"><span class="string">var s = "JavaScript syntax highlighting";</span></span><br><span class="line"><span class="string">alert(s);</span></span><br><span class="line"><span class="string">`</span><span class="string">``</span></span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>Testtag</tag>
+      </tags>
   </entry>
 </search>
