@@ -21,6 +21,17 @@
 ]]></content>
   </entry>
   <entry>
+    <title>test2</title>
+    <url>/2020/04/04/test2/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
+      <tags>
+        <tag>untagged</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>test1</title>
     <url>/2020/04/04/test/</url>
     <content><![CDATA[<p>Test! </p>
@@ -34,17 +45,6 @@
       </categories>
       <tags>
         <tag>Testtag</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>test2</title>
-    <url>/2020/04/04/test2/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>uncategorized</category>
-      </categories>
-      <tags>
-        <tag>untagged</tag>
       </tags>
   </entry>
 </search>
