@@ -24,7 +24,9 @@
     <content><![CDATA[<p>Test! </p>
 <p><code>include</code></p>
 <p>$$a+b$$</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="string">``</span><span class="string">`javascript</span></span><br><span class="line"><span class="string">var s = "JavaScript syntax highlighting";</span></span><br><span class="line"><span class="string">alert(s);</span></span><br><span class="line"><span class="string">`</span><span class="string">``</span></span><br></pre></td></tr></table></figure>]]></content>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">javascript</span><br><span class="line"><span class="keyword">var</span> s = <span class="string">"JavaScript syntax highlighting"</span>;</span><br><span class="line">alert(s);</span><br></pre></td></tr></table></figure>
+
+]]></content>
       <tags>
         <tag>Testtag</tag>
       </tags>
