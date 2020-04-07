@@ -1,57 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>test2</title>
-      <link href="/2020/04/04/test2/"/>
-      <url>/2020/04/04/test2/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Optimization Methods to Thomson Problem</title>
+    <url>/2020/04/07/Optimization-Methods-to-Thomson-Problem/</url>
+    <content><![CDATA[<p>The objective of the <strong>Thomson problem</strong> is to determine the minimum <a href="https://en.wikipedia.org/wiki/Electrostatic_potential_energy" target="_blank" rel="noopener">electrostatic potential energy</a> configuration of <em>N</em> <a href="https://en.wikipedia.org/wiki/Electron" target="_blank" rel="noopener">electrons</a> constrained to the surface of a unit sphere that repel each other with a force given by <a href="https://en.wikipedia.org/wiki/Coulomb' target="_blank" rel="noopener"s_law">Coulomb’s law</a>. </p>
+]]></content>
       <categories>
-          
-          <category> uncategorized </category>
-          
+        <category>projects</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> untagged </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test1</title>
-      <link href="/2020/04/04/test/"/>
-      <url>/2020/04/04/test/</url>
-      
-        <content type="html"><![CDATA[<p>Test! </p><p><code>include</code></p><p>$$a+b$$</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">javascript</span><br><span class="line"><span class="keyword">var</span> s = <span class="string">"JavaScript syntax highlighting"</span>;</span><br><span class="line">alert(s);</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> uncategorized </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Testtag </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>optimization</tag>
+      </tags>
+  </entry>
 </search>
