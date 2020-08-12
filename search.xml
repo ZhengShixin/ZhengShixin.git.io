@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Optimization Methods to Thomson Problem</title>
-    <url>/2020/04/07/Optimization-Methods-to-Thomson-Problem/</url>
-    <content><![CDATA[<p>The objective of the <strong>Thomson problem</strong> is to determine the minimum <a href="https://en.wikipedia.org/wiki/Electrostatic_potential_energy" target="_blank" rel="noopener">electrostatic potential energy</a> configuration of <em>N</em> <a href="https://en.wikipedia.org/wiki/Electron" target="_blank" rel="noopener">electrons</a> constrained to the surface of a unit sphere that repel each other with a force given by <a href="https://en.wikipedia.org/wiki/Coulomb%27s_law" target="_blank" rel="noopener">Coulomb’s law</a>.</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Optimization Methods to Thomson Problem</title>
+      <link href="/2020/04/07/Optimization-Methods-to-Thomson-Problem/"/>
+      <url>/2020/04/07/Optimization-Methods-to-Thomson-Problem/</url>
+      
+        <content type="html"><![CDATA[<p>The objective of the <strong>Thomson problem</strong> is to determine the minimum <a href="https://en.wikipedia.org/wiki/Electrostatic_potential_energy" target="_blank" rel="noopener">electrostatic potential energy</a> configuration of <em>N</em> <a href="https://en.wikipedia.org/wiki/Electron" target="_blank" rel="noopener">electrons</a> constrained to the surface of a unit sphere that repel each other with a force given by <a href="https://en.wikipedia.org/wiki/Coulomb%27s_law" target="_blank" rel="noopener">Coulomb’s law</a>. $g(x)$</p><p>$$ f(a) $$  </p>]]></content>
+      
+      
       <categories>
-        <category>projects</category>
+          
+          <category> projects </category>
+          
       </categories>
-      <tags>
-        <tag>optimization</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> optimization </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
