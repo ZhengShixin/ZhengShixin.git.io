@@ -1,57 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>Naive Bayes Classifier</title>
-      <link href="/2020/10/04/Naive-Bayes-Classifier/"/>
-      <url>/2020/10/04/Naive-Bayes-Classifier/</url>
-      
-        <content type="html"><![CDATA[<p>This is homework 2 of CS573 Data Mining offered by Purdue University in Fall 2020. </p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Naive Bayes Classifier</title>
+    <url>/2020/10/04/Naive-Bayes-Classifier/</url>
+    <content><![CDATA[<p>This is homework 2 of CS573 Data Mining offered by Purdue University in Fall 2020. </p>
+]]></content>
       <categories>
-          
-          <category> project </category>
-          
+        <category>Projects</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> data science, python </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Optimization Methods to Thomson Problem</title>
-      <link href="/2020/04/07/Optimization-Methods-to-Thomson-Problem/"/>
-      <url>/2020/04/07/Optimization-Methods-to-Thomson-Problem/</url>
-      
-        <content type="html"><![CDATA[<p>The objective of the <strong>Thomson problem</strong> is to determine the minimum <a href="https://en.wikipedia.org/wiki/Electrostatic_potential_energy" target="_blank" rel="noopener">electrostatic potential energy</a> configuration of <em>N</em> <a href="https://en.wikipedia.org/wiki/Electron" target="_blank" rel="noopener">electrons</a> constrained to the surface of a unit sphere that repel each other with a force given by <a href="https://en.wikipedia.org/wiki/Coulomb%27s_law" target="_blank" rel="noopener">Coulomb’s law</a>. $g(x)$</p><p>$$ f(a) $$  </p>]]></content>
-      
-      
+      <tags>
+        <tag>Data science</tag>
+        <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Optimization Methods to Thomson Problem</title>
+    <url>/2020/04/07/Optimization-Methods-to-Thomson-Problem/</url>
+    <content><![CDATA[<p>The objective of the <strong>Thomson problem</strong> is to determine the minimum <a href="https://en.wikipedia.org/wiki/Electrostatic_potential_energy" target="_blank" rel="noopener">electrostatic potential energy</a> configuration of <em>N</em> <a href="https://en.wikipedia.org/wiki/Electron" target="_blank" rel="noopener">electrons</a> constrained to the surface of a unit sphere that repel each other with a force given by <a href="https://en.wikipedia.org/wiki/Coulomb%27s_law" target="_blank" rel="noopener">Coulomb’s law</a>. $g(x)$</p>
+<p>$$ f(a) $$  </p>
+]]></content>
       <categories>
-          
-          <category> projects </category>
-          
+        <category>Projects</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> optimization </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>Optimization</tag>
+        <tag>Matlab</tag>
+      </tags>
+  </entry>
 </search>
