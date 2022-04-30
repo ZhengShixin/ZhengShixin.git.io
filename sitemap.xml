@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhengshixin.github.io/2022/04/30/Riemannian-Optimization/</loc>
+    
+    <lastmod>2022-04-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhengshixin.github.io/categories/index.html</loc>
     
     <lastmod>2020-04-05</lastmod>
@@ -37,6 +46,20 @@
   </url>
 
   
+  <url>
+    <loc>https://zhengshixin.github.io/tags/Optimization/</loc>
+    <lastmod>2022-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://zhengshixin.github.io/categories/Research/</loc>
+    <lastmod>2022-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
