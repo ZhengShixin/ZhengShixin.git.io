@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Riemannian optimization using three different metrics for Hermitian PSD fixed-rank constraints</title>
-    <url>/2022/04/30/Riemannian-Optimization/</url>
-    <content><![CDATA[<p>The ArXiv is available at <a href="https://arxiv.org/abs/2204.07830">https://arxiv.org/abs/2204.07830</a></p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Riemannian optimization using three different metrics for Hermitian PSD fixed-rank constraints</title>
+      <link href="/2022/04/30/Riemannian-Optimization/"/>
+      <url>/2022/04/30/Riemannian-Optimization/</url>
+      
+        <content type="html"><![CDATA[<p>The ArXiv is available at <a href="https://arxiv.org/abs/2204.07830">https://arxiv.org/abs/2204.07830</a></p>]]></content>
+      
+      
       <categories>
-        <category>Research</category>
+          
+          <category> Research </category>
+          
       </categories>
-      <tags>
-        <tag>Optimization</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> Optimization </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
